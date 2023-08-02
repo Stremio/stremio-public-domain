@@ -1,0 +1,30 @@
+[
+    "tt1254207",
+    {
+        "id": "tt1254207",
+        "imdb_id": "tt1254207",
+        "type": "movie",
+        "poster": "https://live.metahub.space/poster/small/tt1254207/img",
+        "logo": "https://live.metahub.space/logo/medium/tt1254207/img",
+        "background": "https://live.metahub.space/background/medium/tt1254207/img",
+        "name": "Big Buck Bunny",
+        "description": "'Big' Buck wakes up in his rabbit hole, only to be pestered by three critters, Gimera, Frank and Rinky. When Gimera kills a butterfly, Buck decides on a payback Predator-style",
+        "genre": [
+            "Animation",
+            "Short",
+            "Comedy"
+        ],
+        "releaseInfo": "2008",
+        "runtime": "10 min",
+        "trailers": [
+            {
+                "source": "yUQM7H4Swgw",
+                "type": "Trailer"
+            }
+        ],
+        "behaviorHints": {
+            "defaultVideoId": "tt1254207",
+            "hasScheduledVideos": false
+        }
+    }
+]

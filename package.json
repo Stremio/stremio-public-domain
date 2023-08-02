@@ -1,0 +1,22 @@
+{
+  "name": "stremio-public-domain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stremio/stremio-public-domain.git"
+  },
+  "author": "Smart Code OOD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stremio/stremio-public-domain/issues"
+  },
+  "homepage": "https://github.com/Stremio/stremio-public-domain#readme",
+  "devDependencies": {
+    "tape": "^5.6.6"
+  }
+}
